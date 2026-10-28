@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OpenDrive is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://opendrive.com/
+OpenDrive provides cloud‑based storage, backup, and collaboration services for personal, business, and enterprise users. The platform offers file synchronization across devices, secure sharing, note‑taking, task management, and an extensible API that enables developers to integrate storage capabilities into their applications. Founded in 2007, OpenDrive serves millions of users worldwide with features such as versioning, encryption, and automated backup scheduling.
+
+**Areas:** cloud-storage · backup · file-sync · collaboration · api
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://opendrive.com/)
+- [Documentation](https://www.opendrive.com/api)
+- [API reference](https://www.opendrive.com/api)
+- [Pricing](https://www.opendrive.com/pricing)
+- [Sign up](https://www.opendrive.com/signup)
+- [Support](https://support.opendrive.com)
+- [Changelog](https://www.opendrive.com/wp-content/uploads/releases/api-samples/api-samples.zip)
+- [Blog](https://www.opendrive.com/blog)
+- [Compliance](https://www.opendrive.com/security)
+- [Terms of service](https://www.opendrive.com/terms)
+- [Privacy policy](https://www.opendrive.com/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/opendrive/](https://apis.io/providers/opendrive/).
